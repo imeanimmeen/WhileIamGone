@@ -950,7 +950,7 @@ MonoBehaviour:
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
   m_Interactable: 1
-  m_TargetGraphic: {fileID: 0}
+  m_TargetGraphic: {fileID: 438396024}
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
@@ -1091,7 +1091,7 @@ GameObject:
   - component: {fileID: 821892805}
   - component: {fileID: 821892806}
   m_Layer: 5
-  m_Name: Slider
+  m_Name: Music Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1328,7 +1328,7 @@ GameObject:
   - component: {fileID: 952827948}
   - component: {fileID: 952827949}
   m_Layer: 5
-  m_Name: Slider (1)
+  m_Name: SFX Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
